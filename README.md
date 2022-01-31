@@ -61,7 +61,7 @@ Deploying is pretty much straight forward and is divided into several steps as f
 - Clone this repo:
 ```
 git clone https://github.com/tekeayush/Mirror-bot/
-cd slam_aria_mirror_bot_HEROKU
+cd Mirror-bot
 ```
 
 - Install requirements
